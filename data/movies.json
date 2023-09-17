@@ -1,0 +1,37 @@
+[
+    {
+      "id": "49b5a98a-eb76-4f8d-8c2a-9cc94cb5c0a1",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2010,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": "7e042ad7-bfc7-4726-9db5-07d1e5a07c65",
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "year": 1994,
+      "genre": "Drama"
+    },
+    {
+      "id": "e86d9126-4095-4c07-b470-ec7794d39e4d",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "genre": "Crime"
+    },
+    {
+      "id": "9923624e-906b-4423-90d2-7e602b2b4504",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": 2008,
+      "genre": "Action"
+    },
+    {
+      "id": "3441c51c-5c0d-4c76-9a6f-b0d93e1a7f3c",
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "year": 1994,
+      "genre": "Drama"
+    }
+  ]
